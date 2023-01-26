@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-shiv
-hi shiv pratap singh
-=======
-Slack add
 hi
->>>>>>> 9f2eec9d5126c0798c989a8c3cee06164620ca25
